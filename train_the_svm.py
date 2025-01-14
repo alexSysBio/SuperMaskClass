@@ -2,7 +2,7 @@
 """
 Created on Mon Nov  8 15:50:38 2021
 
-@author: Alex
+@author: Alexandros Papagiannakis, HHMI at Stanford 2021
 """
 
 import numpy as np
