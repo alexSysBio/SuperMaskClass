@@ -17,8 +17,9 @@ import os
 #cell_dataframe = pd.read_pickle(r"M:\Alex\cell_mesh_classification_ML\training_data", compression='zip')
 
 def supervised_prediction(cell_dataframe, 
-                  trained_model,
-                  features_=['cell_area', 'cell_length', 'constriction', 'max_distance', 'cell_angle', 'central_intercept']):
+                          trained_model,
+                          features_=['cell_area', 'cell_length', 'constriction', 'max_distance', 'cell_angle', 'central_intercept']):
+    
     """Function used to make predictions based on cell features and a trained supervised model.
 
     Args:
