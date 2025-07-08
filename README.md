@@ -1,4 +1,4 @@
-# Supervised_cell_classification
+# Supervised_cell_label_classification :vertical_traffic_light:
 
 Author: Alexandros Papagiannakis.
 HHMI at Stanford University 2021
